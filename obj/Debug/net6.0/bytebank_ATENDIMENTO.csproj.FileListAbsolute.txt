@@ -1,0 +1,15 @@
+C:\Users\Dirceu\Desktop\Alura\Array_Collections_C-aula01\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.exe
+C:\Users\Dirceu\Desktop\Alura\Array_Collections_C-aula01\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.deps.json
+C:\Users\Dirceu\Desktop\Alura\Array_Collections_C-aula01\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.runtimeconfig.json
+C:\Users\Dirceu\Desktop\Alura\Array_Collections_C-aula01\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.dll
+C:\Users\Dirceu\Desktop\Alura\Array_Collections_C-aula01\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+C:\Users\Dirceu\Desktop\Alura\Array_Collections_C-aula01\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.AssemblyReference.cache
+C:\Users\Dirceu\Desktop\Alura\Array_Collections_C-aula01\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dirceu\Desktop\Alura\Array_Collections_C-aula01\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfoInputs.cache
+C:\Users\Dirceu\Desktop\Alura\Array_Collections_C-aula01\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfo.cs
+C:\Users\Dirceu\Desktop\Alura\Array_Collections_C-aula01\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.CoreCompileInputs.cache
+C:\Users\Dirceu\Desktop\Alura\Array_Collections_C-aula01\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.dll
+C:\Users\Dirceu\Desktop\Alura\Array_Collections_C-aula01\bytebank_ATENDIMENTO\obj\Debug\net6.0\refint\bytebank_ATENDIMENTO.dll
+C:\Users\Dirceu\Desktop\Alura\Array_Collections_C-aula01\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+C:\Users\Dirceu\Desktop\Alura\Array_Collections_C-aula01\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.genruntimeconfig.cache
+C:\Users\Dirceu\Desktop\Alura\Array_Collections_C-aula01\bytebank_ATENDIMENTO\obj\Debug\net6.0\ref\bytebank_ATENDIMENTO.dll
